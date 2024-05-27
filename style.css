@@ -1,0 +1,78 @@
+nav .navbar-brand{
+    font-size: large;
+    font-weight: bold;
+}
+
+.form-control {
+    width: 572px;
+    margin-left: 12%;
+    border-radius: 25px;
+    background-color: #F0F0F0;;
+}
+
+/*---------------------- SECTION 1 -------------------*/
+
+#section1{
+    background-color: #F2F0F1;;
+}
+
+#section1 h1{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+}
+
+#section1 .para1{
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+#section1 button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 28px;
+    padding: 2% 8%;
+}
+
+#section1 img {
+    height: 663px;
+    width: 440px;
+    margin-left: 20%;
+}
+
+footer ul li{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .form-control {
+        width: 315px;
+        margin-left: 0%; 
+       
+      ;
+    }
+
+    #section1 img {
+        margin-left: 0%;
+        width: 100%;
+        height: 400px;
+        
+    }
+    
+  
+    #section2 img{
+        width: 18%;
+
+    }
+}
+.btn11{
+    margin-top: -70px;
+    margin-left:50px;
+}
+ul li a{
+    text-decoration: none;
+}
